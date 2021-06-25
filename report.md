@@ -512,7 +512,7 @@ The overall logic in main.cpp is very similiar to single-core version. First, ge
 [137 7] 153 110 213 0
 [137 8] 165 106 196 0
 [137 9] 167 103 168 0
-
+simulation time: 3427051200 ns
 ```
 
 * multi-core
@@ -718,6 +718,7 @@ The overall logic in main.cpp is very similiar to single-core version. First, ge
 [137 7] 153 110 213 0
 [137 8] 165 106 196 0
 [137 9] 167 103 168 0
+simulation time: 2191492180 ns
 
 ```
 
